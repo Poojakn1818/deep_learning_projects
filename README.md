@@ -45,5 +45,5 @@ Lagged Features: You could also use previous data points (lags) as additional in
 Combine Models: Using a mix of different models (like LSTM, GRU, CNN-LSTM) can give you more reliable predictions by reducing the weaknesses of any one model.
 Other Models: Consider trying simpler models like decision trees (XGBoost) to see if they perform better for stock price prediction.
 
-# Adjust Sliding Window:
+## Adjust Sliding Window:
 Dynamic Window Sizes: Instead of sticking with the same window size for all predictions, adjust it based on the model's performance. This can help adapt to changing market conditions.
